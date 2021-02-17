@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/onyx-storm/Python-Keylogger.svg)](http://hits.dwyl.com/onyx-storm/Python-Keylogger)
+[![HitCount](http://hits.dwyl.com/onyx-storm/HTB-Invite-Code-Generator.svg)](http://hits.dwyl.com/onyx-storm/HTB-Invite-Code-Generator)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/onyx-storm)
 ![Build status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)
 # HTB Invite code Generator
