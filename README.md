@@ -10,7 +10,7 @@ HTB invite code generator
 ## Working
 * This is basically a web crawler which will send `n` post request to HTB Using the User-Agent header which will be loaded as a json format and then the result will scrape the Invite code i.e which is in base64. Those codes will be decoded to plain text and displayed
 
-![Working](htb.png)
+![Working](HTB_working.png)
 
 ## Requirements
 * Python 3.X
