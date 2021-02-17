@@ -22,7 +22,7 @@ HTB invite code generator
 
 
 ## Acknowledgments
-* Replica code created by the help of [Sankethj](https://github.com/sankethj/hackthebox) 
+* Base code created by the help of [Sankethj](https://github.com/sankethj/hackthebox) 
 
 
 
