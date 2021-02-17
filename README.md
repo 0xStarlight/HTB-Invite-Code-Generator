@@ -12,7 +12,9 @@ HTB invite code generator
 
 ## Requirements
 * Python 3.X
-* PyBase should be insatlled on your system
+* pyBase should be insatlled on your system `pip install pybase`
+* pyfiglet should be insatlled on your system `pip install pyfiglet`
+* termcolor should be insatlled on your system `pip install termcolor`
 
 
 ## Note
