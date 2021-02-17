@@ -18,7 +18,7 @@ HTB invite code generator
 
 
 ## Note
-* for the program to run successfully open the CMD/Terminal and type the following command `pip install -r requirements.txt`
+* for the program to run successfully open the CMD/Terminal and type the following command `pip install -r requirements.txt` or you can install manually 
 
 ## Author
 * Bhaskar Pal - *Initial Work* - [bhaskarpal](https://github.com/onyx-storm) 
