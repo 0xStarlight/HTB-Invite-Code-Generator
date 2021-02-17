@@ -9,6 +9,7 @@ HTB invite code generator
 
 ## Requirements
 * Python 3.X
+* PyBase should be insatlled on your system
 
 
 ## Note
