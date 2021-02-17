@@ -14,11 +14,3 @@ count=1
 for i in invites:
         print(f'Invite code {count}:',i)
         count+=1
-
-
-
-
-
-
-
-
