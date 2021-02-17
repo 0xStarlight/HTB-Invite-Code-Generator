@@ -2,7 +2,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/onyx-storm)
 ![Build status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)
 # HTB Invite code Generator
-Unlimited invite codes for Hack The Box
+HTB invite code generator
 
 ## Working
 * This is basically a web crawler which will send `n` post request to HTB Using the User-Agent header which will be loaded as a json format and then the result will scrape the Invite code i.e which is in base64. Those codes will be decoded to plain text and displayed
