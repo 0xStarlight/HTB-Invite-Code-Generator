@@ -4,13 +4,14 @@
 # HTB Invite code Generator
 Unlimited invite codes for Hack The Box
 
+## Working
+* This is basically a web crawler which will send `n` post request to HTB Using the User-Agent header which will be loaded as a json format and then the result will scrape the Invite code i.e which is in base64. The those codes will be decoded to plain text and displayed
 
 ## Requirements
 * Python 3.X
 
 
 ## Note
-
 * for the program to run successfully open the CMD/Terminal and type the following command `pip install -r requirements.txt`
 
 ## Author
